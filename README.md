@@ -1,9 +1,9 @@
-👋 Olá, eu sou o Jorge Roberto Meireles Pereira
+<span style="text-transform:uppercase;">
+👋 Olá, eu sou o Jorge Roberto Meireles Pereira  
+🎯 Técnico de Segurança do Trabalho | Técnico em Administração | Estudante de Engenharia de Software  
+📍 Manaus - AM | 📧 jorgerobertomeirelesp@gmail.com | 📱 (92) 99479-8157 | LinkedIn  
+</span>
 
-🎯 Técnico de Segurança do Trabalho | Técnico em Administração | Estudante de Engenharia de Software
-
-📍 Manaus - AM
-📧 jorgerobertomeirelesp@gmail.com
 
 📱 (92) 99479-8157
 🔗 LinkedIn
