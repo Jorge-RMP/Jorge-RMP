@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jorge Roberto
+# Jorge Roberto
 
 **`Analista de Dados, Desenvolvedor full sta`**
 
