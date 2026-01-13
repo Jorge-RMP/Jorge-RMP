@@ -1,6 +1,6 @@
 # Jorge Roberto
 
-**`Analista de Dados, Desenvolvedor full sta`**
+**`Analista de Dados, Desenvolvedor full stack, Téc. Seg. Trabalho, Téc. Administração`**
 
 Me chamo Jorge Roberto, sou natural de Manaus e atualmente curso Engenharia de Software pela Descomplica Faculdade Digital. Possuo formação técnica em Segurança do Trabalho e Administração pelo CETAM. Atualmente, trabalho na Bemol, onde uno minha experiência em segurança ocupacional com o desenvolvimento de soluções em automação e análise de dados.
 
