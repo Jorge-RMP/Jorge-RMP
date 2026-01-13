@@ -1,109 +1,209 @@
-<span style="text-transform:uppercase;">
-👋 Olá, eu sou o Jorge Roberto Meireles Pereira  
-🎯 Técnico de Segurança do Trabalho | Técnico em Administração | Estudante de Engenharia de Software  
-📍 Manaus - AM | 📧 jorgerobertomeirelesp@gmail.com | 📱 (92) 99479-8157 | LinkedIn  
-</span>
+# 👩🏻‍💻 Jorge Roberto
 
+**`Analista de Dados, Desenvolvedor full sta`**
 
-📱 (92) 99479-8157
-🔗 LinkedIn
+Me chamo Jorge Roberto, sou natural de Manaus e atualmente curso Engenharia de Software pela Descomplica Faculdade Digital. Possuo formação técnica em Segurança do Trabalho e Administração pelo CETAM. Atualmente, trabalho na Bemol, onde uno minha experiência em segurança ocupacional com o desenvolvimento de soluções em automação e análise de dados.
 
-🚀 Sobre mim
+Acesse meu LinkedIn vamos nos conectar "[Jorge Roberto](https://www.linkedin.com/in/jorge-roberto-meireles-pereira/)".
 
-Sou um profissional dedicado, disciplinado e em constante evolução.
-Atuo nas áreas de Segurança do Trabalho e Administração, com experiência em elaboração de relatórios, coordenação de CIPA, investigações de acidentes, controles administrativos e suporte organizacional.
+<p align="left">
+    <!-- </a>
+    <a href="https://www.youtube.com/@larissakich">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        /> -->
+    </a> 
+    <a href="https://github.com/Jorge-RMP">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Jorge-RMP?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Jorge-RMP?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Jorge-RMP?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-Atualmente, curso Engenharia de Software, buscando unir minha vivência prática em empresas com habilidades técnicas em tecnologia, automação e análise de dados.
+---
 
-🎓 Formação Acadêmica
+### 🤖 Linguagens e Tecnologias
 
-🎓 Engenharia de Software – Descomplica Faculdade (2025 - 2029)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-🦺 Técnico em Segurança do Trabalho – CETAM (2022 - 2024)
+<!-- <img
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img
+    align="left"
+    alt="React"
+    title="React"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img
+    align="left"
+    alt="Next.js"
+    title="Next.js"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+/>
+<img
+    align="left"
+    alt="Bootstrap"
+    title="Bootstrap"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+/>
+<img
+    align="left"
+    alt="Tailwind"
+    title="Tailwind"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+<img
+    align="left"
+    alt="SASS"
+    title="SASS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+/>
+<img
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+/>
+<img
+    align="left"
+    alt="JQuery"
+    title="JQuery"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://atraca.com.br/o-que-e-n8n/"
+/> -->
 
-🗂️ Técnico em Administração – EaD CETAM (2022 - 2024)
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="75px"
+    style="padding-right: 10px;"
+    src="https://saveincloud.com/pt/blog/content/images/2025/05/N8n-logo-1.webp"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="38px"
+    style="padding-right: 10px;"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60jDOkqHZdkSMpXuApmem8EpNpx5jpaHSfj1haDdU8Q&s"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="65px"
+    style="padding-right: 10px;"
+    src="https://cdn-wcsm.alura.com.br/2025/10/make-ia.jpg"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://lsxconsulting.com/wp-content/uploads/2020/09/powerbi-1024x1024.png"
+/>
 
-🎒 Ensino Médio – Homero de Miranda Leão
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-💼 Experiências Profissionais
-Bemol – Técnico de Segurança do Trabalho (2025 - Atual)
+<br/>
+<br/>
+<br/>
+<br/>
 
-Coordenação completa da CIPA (eleição, posse, treinamentos e SIPAT).
+### 📊 Estatísticas
 
-Desenvolvimento de campanhas de segurança e treinamentos de integração.
+<p>
+  <!-- <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  /> -->
 
-Elaboração de relatórios, inspeções e análise de acidentes.
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-RMP&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-Criação e acompanhamento de programas legais (PGR, PCMSO, LTCAT).
-
-Automação de indicadores de segurança com Power Apps, Power BI e Power Automate.
-
-Delícias da Pepeta – Assistente Administrativo (2023 - 2024)
-
-Gestão financeira e conciliação bancária.
-
-Fechamento de caixa e relatórios administrativos.
-
-Apoio em processos de admissão e folha de pagamento.
-
-Segeam – Auxiliar Administrativo Sesmt (2023)
-
-Organização de documentos legais (ASO, O.S, DSS, etc).
-
-Suporte em abertura de CATs e investigações.
-
-Uso de Excel, PowerPoint e Word em atividades administrativas.
-
-Prosegur – Jovem Aprendiz Administrativo (Sesmt) (2022 - 2023)
-
-Controle de fichas de EPI.
-
-Apoio em PGR e PCMSO.
-
-Divulgação de DSS e relatórios internos.
-
-ClickIp Tecnologia – Estágio Administrativo (2022 - 2023)
-
-Elaboração de planilhas no Google Drive.
-
-Organização cadastral de clientes.
-
-Suporte ao time em processos administrativos.
-
-🛠️ Habilidades
-
-Segurança do Trabalho: CIPA, SIPAT, CAT, Programas Legais (PGR, PCMSO, LTCAT).
-
-Ferramentas de Escritório: Excel (avançado), Word, PowerPoint.
-
-Análise de Dados e Automação: Power BI, Power Query, Power Automate, Power Apps.
-
-Soft Skills: Comunicação eficaz, Proatividade, Organização.
-
-📚 Cursos e Certificações
-
-Assistente de Recursos Humanos – CETAM
-
-Power BI Express – Simplifica Treinamentos
-
-Excel Express – Simplifica Treinamentos
-
-Processos Trabalhistas no e-Social – ENIT
-
-Nova Redação da NR6 e Seleção de EPI – ENIT
-
-Informática Básica – Escola do Legislativo CMM
-
-Fundamentos em IA: Make e Chatvolt (criação de agentes e prompts de IA)
-
-📌 Projetos & Portfólio
-
-(Aqui você pode incluir projetos pessoais, acadêmicos ou cases de automação/dashboards que desenvolver no decorrer da faculdade ou carreira).
-
-🔗 Exemplo: Dashboard de Segurança no Trabalho em Power BI
-
-🔗 Exemplo: Automação de Processos com Power Automate
-
-✨ Objetivo
-
-Integrar minhas experiências práticas em Segurança do Trabalho e Administração com minha formação em Engenharia de Software, para atuar em projetos que envolvam gestão, tecnologia, análise de dados e automação de processos.
+</p>
